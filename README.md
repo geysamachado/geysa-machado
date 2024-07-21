@@ -1,8 +1,8 @@
 - 👋 Olá, sou @geysamachado
 - 👀 Atualmente estou estudando programação e Web3
 - 🌱 Sou estudante iniciante no curso online Alura
-- 😄 She/her
-- ⚡ Rio de Janeiro, Brazil
+- 😄 Ela/dela
+- ⚡ Rio de Janeiro, Brasil
 
 <!---
 geysamachado/geysamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
