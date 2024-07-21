@@ -8,7 +8,7 @@
 geysamachado/geysamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Jogo do número secreto</h1>
+<h1>Aluna Geysa Machado</h1>
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
