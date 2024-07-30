@@ -1,7 +1,6 @@
 - 👋 Olá, sou @geysamachado
-- Atualmente estou estudando programação e Web3
 - Estudante iniciante no curso online Alura e Tech Women Rocinha e sou graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
-- Pronomes: Ela/dela
+- Ela/dela
   Rio de Janeiro, Brasil
 
 <!---
