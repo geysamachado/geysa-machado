@@ -1,7 +1,8 @@
 - 👋 Olá, sou @geysamachado
-- Estudante iniciante no curso online Alura e Tech Women Rocinha e sou graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
+- Estudante iniciante no curso Alura e Tech Women Rocinha
+- Graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
 - Ela/dela
-  Rio de Janeiro, Brasil
+  Rio de Janeiro, Brasil.
 
 <!---
 geysamachado/geysamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
