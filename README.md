@@ -1,6 +1,6 @@
 - 👋 Olá, sou @geysamachado
 - 👀 Atualmente estou estudando programação e Web3
-- 🌱 Sou estudante iniciante no curso online Alura
+- 🌱 Sou estudante iniciante no curso online Alura e graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro
 - 😄 Ela/dela
 - ⚡ Rio de Janeiro, Brasil
 
