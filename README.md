@@ -1,8 +1,8 @@
 - 👋 Olá, sou @geysamachado
 - Estudante iniciante no curso Alura e Tech Women Rocinha
 - Graduanda de Museologia - Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
-- Ela/dela
-- Rio de Janeiro, Brasil.
+- Mulher preta e nordestina
+- Localização: Rio de Janeiro, Brasil.
 
 <!---
 geysamachado/geysamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
