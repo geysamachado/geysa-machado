@@ -1,8 +1,8 @@
 - 👋 Olá, sou @geysamachado
-- 👀 Atualmente estou estudando programação e Web3
-- 🌱 Sou estudante iniciante no curso online Alura e graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
-- 😄 Ela/dela
-- ⚡ Rio de Janeiro, Brasil
+- Atualmente estou estudando programação e Web3
+- Estudante iniciante no curso online Alura e Tech Women Rocinha e sou graduanda de Museologia na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
+- Pronomes: Ela/dela
+  Rio de Janeiro, Brasil
 
 <!---
 geysamachado/geysamachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
